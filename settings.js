@@ -37,7 +37,7 @@ global.doc6 = 'application/vnd.android.package-archive'
 
 //OWNER CONTACT
 global.vcardowner = ['+94742132265'] //ur owner number
-global.ownername = "꧁☞︎︎︎🍁𝑁𝑖𝑙𝑎𝑛𝑔𝑎🌾𝑘𝑎𝑣𝑖ℎ𝑎𝑟𝑎🍁" //ur owner name
+global.ownername = "ⁱᵐ͢🕊️Nilanga kavihara🚀🇱🇰" //ur owner name
 global.ytname = "YT: No yt" //ur yt chanel name
 global.socialm = "GitHub: darkalphaxteam" //ur github or insta name
 global.location = "Sri Lanka, Kurunagala, Nikaweratiya" //ur location
@@ -46,7 +46,7 @@ global.location = "Sri Lanka, Kurunagala, Nikaweratiya" //ur location
 global.owner = ['+94742132265']
 global.ownertag = '+94742132265' //ur tag number
 global.botnumber = '+94742132265' //Add your Bot Number For Log
-global.botname = '𖣘𝑵𝒊𝒍𝒂𝒏𝒈𝒂☘️ 𝒌𝒂𝒗𝒊𝒉𝒂𝒓𝒂🌿 𝒃𝒐𝒕🍀 𝒆𝒅𝒕𝒕𝒊𝒐𝒏𖣘' //ur bot name
+global.botname = '💚✦••──✧❥ 🇱🇰 𝑁𝑖𝑙𝑎𝑛𝑔𝑎 𝑘𝑎𝑣𝑖ℎ𝑎𝑟𝑎🚀🇱🇰ꫂ ' //ur bot name
 global.ig = "https://youtu.be/uzMbW5v9QLE" //your theme url which will be displayed on whatsapp
 global.myweb = "https://youtu.be/uzMbW5v9QLE" //ur website to be displayed
 global.sc = 'https://github.com/darkalphaxteam' //script link
@@ -54,7 +54,7 @@ global.linkz = 'https://youtu.be/uzMbW5v9QLE'
 global.reactmoji = "😘" //ur menu react emoji
 global.themeemoji = "📩" //ur theme emoji
 global.packname = "🌱𝒩𝒾𝓁𝒶𝓃ℊ𝒶 𝓀𝒶𝓋𝒾𝒽𝒶𝓇𝒶🌻" //ur sticker watermark packname
-global.author = "🌹𝑁𝑖𝑙𝑎𝑛𝑔𝑎 𝑘𝑎𝑣𝑖ℎ𝑎𝑟𝑎 𝑏𝑜𝑡🥀" //ur sticker watermark author
+global.author ="💚✦••──✧❥ 🇱🇰 𝑁𝑖𝑙𝑎𝑛𝑔𝑎 𝑘𝑎𝑣𝑖ℎ𝑎𝑟𝑎 🚀🇱🇰ꫂ " //ur sticker watermark author
 global.footer = "Nilanga kavihara bot"
 global.aliveimg ="https://telegra.ph/file/38c052d313ccf14d80550.jpg"
 global.allmenuimg ="https://telegra.ph/file/4f8a6f14430de2a4f4991.jpg"
