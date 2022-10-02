@@ -39,7 +39,7 @@ global.doc6 = 'application/vnd.android.package-archive'
 global.vcardowner = ['+94742132265'] //ur owner number
 global.ownername = "ⁱᵐ͢🕊️Nilanga kavihara🚀🇱🇰" //ur owner name
 global.ytname = "YT: No yt" //ur yt chanel name
-global.socialm = "GitHub: darkalphaxteam" //ur github or insta name
+global.socialm = "ⁱᵐ͢🕊️Nilanga kavihara🚀🇱🇰" //ur github or insta name
 global.location = "Sri Lanka, Kurunagala, Nikaweratiya" //ur location
 
 //BOT COSTOMIZEDTATION
@@ -55,7 +55,7 @@ global.reactmoji = "😘" //ur menu react emoji
 global.themeemoji = "📩" //ur theme emoji
 global.packname = "🌱𝒩𝒾𝓁𝒶𝓃ℊ𝒶 𝓀𝒶𝓋𝒾𝒽𝒶𝓇𝒶🌻" //ur sticker watermark packname
 global.author ="💚✦••──✧❥ 🇱🇰 𝑁𝑖𝑙𝑎𝑛𝑔𝑎 𝑘𝑎𝑣𝑖ℎ𝑎𝑟𝑎 🚀🇱🇰ꫂ " //ur sticker watermark author
-global.footer = "Nilanga kavihara bot"
+global.footer = " ❥᭄⃞⃝⃟⃟⃞⃝★────⛦➩➨➤ ⁱᵐ͢🕊️𝑵𝒊𝒍𝒂𝒏𝒈𝒂  𝑲𝒂𝒗𝒊𝒉𝒂𝒓𝒂 𝑩𝒐𝒕 🚀🇱🇰☺️✦⃟🍀⃝🍏⃤💙⃝ꪶ➤"
 global.aliveimg ="https://telegra.ph/file/38c052d313ccf14d80550.jpg"
 global.allmenuimg ="https://telegra.ph/file/4f8a6f14430de2a4f4991.jpg"
 global.welcomeimg= "https://telegra.ph/file/844812c77704231c08a90.jpg"
